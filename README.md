@@ -25,14 +25,7 @@ Frontend Upgrad Scribbler Project assigned by upgrad Learn In FullStack Developm
      <br/>
      <hr/>
 
-## Post Part
 
-
-
-- Delete Post
-     <img src="https://user-images.githubusercontent.com/68987615/186209564-9dc3b0be-6b5d-4a63-8cf8-fdf0774cd2d9.jpg" alt="img6" height="500px" width="auto"/>
-     <br/>
-     <hr/>
 
 ## Post Detail Part
 
